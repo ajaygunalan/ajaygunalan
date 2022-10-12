@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-A robotics software engineer with 3 years of experience in sensors and actuators with a solid background in signal/image
-processing, controls, and mechatronics. I love to develop efficient C++/Python solutions and support others in a diverse
-team to develop impactful technologies.
+Find about me at [ajaygunalan.com](https://ajaygunalan.com/)
 
 <!--
 **ajaygunalan/ajaygunalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
